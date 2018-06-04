@@ -1,0 +1,2382 @@
+circuit child
+
+anonymous block completed
+Lv_document_number---------------->1641094lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1641094--->'lv_circuit_design_id--------->5169242NG_CUST_ACCT_ID---->63870lv_leg_document_number---->3722297
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->
+data inserted into serv_req_si10618263
+data inserted into cust_acct_si10618263
+Lv_document_number---------------->1475113lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1475113--->'lv_circuit_design_id--------->5648066NG_CUST_ACCT_ID---->28700lv_leg_document_number---->3011043
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10618263
+data inserted into serv_req_si5648066
+data inserted into cust_acct_si5648066
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1641507lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1641507--->'lv_circuit_design_id--------->5572256NG_CUST_ACCT_ID---->2257lv_leg_document_number---->316518
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5648066
+data inserted into serv_req_si5572256
+data inserted into cust_acct_si5572256
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2441344lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441344--->'lv_circuit_design_id--------->5082051NG_CUST_ACCT_ID---->342161lv_leg_document_number---->6641976
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5572256
+data inserted into serv_req_si5082051
+data inserted into cust_acct_si5082051
+data inserted into SERV_ITEM_REL5082051
+lv_location_id-------->3967402LV_ADDRESS_ID--->3262768
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->802171lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->802171--->'lv_circuit_design_id--------->5733283NG_CUST_ACCT_ID---->76716lv_leg_document_number---->723385
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5082051
+data inserted into serv_req_si10580335
+data inserted into cust_acct_si10580335
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1490464lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1490464--->'lv_circuit_design_id--------->5602122NG_CUST_ACCT_ID---->78649lv_leg_document_number---->3623476
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10580335
+data inserted into serv_req_si10553806
+data inserted into cust_acct_si10553806
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2441360lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441360--->'lv_circuit_design_id--------->5290847NG_CUST_ACCT_ID---->342337lv_leg_document_number---->6642278
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10553806
+data inserted into serv_req_si5290847
+data inserted into cust_acct_si5290847
+data inserted into SERV_ITEM_REL5290847
+lv_location_id-------->4045441LV_ADDRESS_ID--->3307804
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5290847
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2441333lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441333--->'lv_circuit_design_id--------->5598669NG_CUST_ACCT_ID---->413865lv_leg_document_number---->6642916
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5290847
+data inserted into serv_req_si5598669
+data inserted into cust_acct_si5598669
+data inserted into SERV_ITEM_REL5598669
+lv_location_id-------->4056536LV_ADDRESS_ID--->3314281
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5598669
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->3478077lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->3478077--->'lv_circuit_design_id--------->5411327NG_CUST_ACCT_ID---->350674lv_leg_document_number---->6409930
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5598669
+data inserted into serv_req_si5411327
+data inserted into cust_acct_si5411327
+data inserted into SERV_ITEM_REL5411327
+lv_location_id-------->4113810LV_ADDRESS_ID--->301948
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->5813LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5411327
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4311180lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4311180--->'lv_circuit_design_id--------->5188056NG_CUST_ACCT_ID---->346409lv_leg_document_number---->6727235
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5411327
+data inserted into serv_req_si5188056
+data inserted into cust_acct_si5188056
+data inserted into SERV_ITEM_REL5188056
+lv_location_id-------->4075398LV_ADDRESS_ID--->298215
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->64350LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5188056
+Lv_document_number---------------->4194617lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4194617--->'lv_circuit_design_id--------->5741339NG_CUST_ACCT_ID---->315955lv_leg_document_number---->6305691
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5188056
+data inserted into serv_req_si5741339
+data inserted into cust_acct_si5741339
+data inserted into SERV_ITEM_REL5741339
+lv_location_id-------->4090078LV_ADDRESS_ID--->3334481
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->2181LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5741339
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1654343lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->0--->Lv_document_number----->1654343--->'lv_circuit_design_id--------->NG_CUST_ACCT_ID---->83913lv_leg_document_number---->7027834
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->5741339
+data inserted into serv item table-->30563026
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->5124126lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->5124126--->'lv_circuit_design_id--------->4847617NG_CUST_ACCT_ID---->300439lv_leg_document_number---->5999729
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5741339
+data inserted into serv_req_si4847617
+data inserted into cust_acct_si4847617
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4335616lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->0--->Lv_document_number----->4335616--->'lv_circuit_design_id--------->NG_CUST_ACCT_ID---->1939688lv_leg_document_number---->7019850
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->4847617
+data inserted into serv item table-->30563028
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->803291lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->803291--->'lv_circuit_design_id--------->4734101NG_CUST_ACCT_ID---->77898lv_leg_document_number---->6719176
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4847617
+data inserted into serv_req_si10600003
+data inserted into cust_acct_si10600003
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->788392lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->788392--->'lv_circuit_design_id--------->5175611NG_CUST_ACCT_ID---->120181lv_leg_document_number---->6606886
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10600003
+data inserted into serv_req_si5175611
+data inserted into cust_acct_si5175611
+data inserted into SERV_ITEM_REL5175611
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2441360lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441360--->'lv_circuit_design_id--------->5611559NG_CUST_ACCT_ID---->342337lv_leg_document_number---->6642278
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5175611
+data inserted into serv_req_si5611559
+data inserted into cust_acct_si5611559
+data inserted into SERV_ITEM_REL5611559
+lv_location_id-------->4045441LV_ADDRESS_ID--->3307804
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1135005lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->1135005--->'lv_circuit_design_id--------->5777775NG_CUST_ACCT_ID---->280799lv_leg_document_number---->
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->5611559
+data inserted into serv_req_si5777775
+data inserted into cust_acct_si5777775
+Lv_document_number---------------->1796663lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1796663--->'lv_circuit_design_id--------->5261417NG_CUST_ACCT_ID---->261554lv_leg_document_number---->5890092
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5777775
+data inserted into serv_req_si5261417
+data inserted into cust_acct_si5261417
+data inserted into SERV_ITEM_REL5261417
+lv_location_id-------->2018482LV_ADDRESS_ID--->220797
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->169725LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5261417
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1125091lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1125091--->'lv_circuit_design_id--------->5260377NG_CUST_ACCT_ID---->134358lv_leg_document_number---->5970079
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5261417
+data inserted into serv_req_si5260377
+data inserted into cust_acct_si5260377
+data inserted into SERV_ITEM_REL5260377
+lv_location_id-------->4597781LV_ADDRESS_ID--->127589
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->320247LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->788758lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->788758--->'lv_circuit_design_id--------->5113850NG_CUST_ACCT_ID---->82534lv_leg_document_number---->4585740
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->5260377
+lv_location_id-------->4002798LV_ADDRESS_ID--->3282379
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->806915lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->806915--->'lv_circuit_design_id--------->4968299NG_CUST_ACCT_ID---->81929lv_leg_document_number---->6369621
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10986606
+data inserted into serv_req_si4968299
+data inserted into cust_acct_si4968299
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1813886lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1813886--->'lv_circuit_design_id--------->5486704NG_CUST_ACCT_ID---->128889lv_leg_document_number---->6010691
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4968299
+data inserted into serv_req_si23046724
+data inserted into cust_acct_si23046724
+data inserted into SERV_ITEM_REL23046724
+lv_location_id-------->4629123LV_ADDRESS_ID--->123495
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->6172LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4311454lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4311454--->'lv_circuit_design_id--------->5006793NG_CUST_ACCT_ID---->352384lv_leg_document_number---->6720913
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->23046724
+data inserted into serv_req_si5006793
+data inserted into cust_acct_si5006793
+data inserted into SERV_ITEM_REL5006793
+lv_location_id-------->4622775LV_ADDRESS_ID--->303602
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->1632655lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1632655--->'lv_circuit_design_id--------->4546094NG_CUST_ACCT_ID---->29726lv_leg_document_number---->
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5006793
+data inserted into serv_req_si4546094
+data inserted into cust_acct_si4546094
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2365998lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2365998--->'lv_circuit_design_id--------->5229716NG_CUST_ACCT_ID---->349446lv_leg_document_number---->6616215
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4546094
+data inserted into serv_req_si5229716
+data inserted into cust_acct_si5229716
+data inserted into SERV_ITEM_REL5229716
+lv_location_id-------->3946716LV_ADDRESS_ID--->3251406
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->16535LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5229716
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4311180lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4311180--->'lv_circuit_design_id--------->5075961NG_CUST_ACCT_ID---->346409lv_leg_document_number---->6727235
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5229716
+data inserted into serv_req_si5075961
+data inserted into cust_acct_si5075961
+data inserted into SERV_ITEM_REL5075961
+lv_location_id-------->4075398LV_ADDRESS_ID--->298215
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->4322457lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->0--->Lv_document_number----->4322457--->'lv_circuit_design_id--------->NG_CUST_ACCT_ID---->1998232lv_leg_document_number---->7027997
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5075961
+data inserted into serv item table-->30563030
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1815897lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1815897--->'lv_circuit_design_id--------->4796514NG_CUST_ACCT_ID---->302283lv_leg_document_number---->6320124
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5075961
+data inserted into cust_acct_si4796514
+data inserted into SERV_ITEM_REL4796514
+lv_location_id-------->4157697LV_ADDRESS_ID--->258484
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->64350LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1475113lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1475113--->'lv_circuit_design_id--------->5358615NG_CUST_ACCT_ID---->28700lv_leg_document_number---->3011043
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4796514
+data inserted into serv_req_si5358615
+data inserted into cust_acct_si5358615
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1308738lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->0--->Lv_document_number----->1308738--->'lv_circuit_design_id--------->NG_CUST_ACCT_ID---->96017lv_leg_document_number---->6950221
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5358615
+data inserted into serv item table-->30563032
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1142759lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1142759--->'lv_circuit_design_id--------->5654795NG_CUST_ACCT_ID---->72087lv_leg_document_number---->3592617
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5358615
+data inserted into serv_req_si5654795
+data inserted into cust_acct_si5654795
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1473721lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1473721--->'lv_circuit_design_id--------->4838832NG_CUST_ACCT_ID---->28790lv_leg_document_number---->3041484
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5654795
+data inserted into serv_req_si4838832
+data inserted into cust_acct_si4838832
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2441344lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441344--->'lv_circuit_design_id--------->5136874NG_CUST_ACCT_ID---->342161lv_leg_document_number---->6641976
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4838832
+data inserted into serv_req_si5136874
+data inserted into cust_acct_si5136874
+data inserted into SERV_ITEM_REL5136874
+lv_location_id-------->3967402LV_ADDRESS_ID--->3262768
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5136874
+Lv_document_number---------------->2441341lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441341--->'lv_circuit_design_id--------->5552391NG_CUST_ACCT_ID---->345393lv_leg_document_number---->6641903
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5136874
+data inserted into serv_req_si5552391
+data inserted into cust_acct_si5552391
+data inserted into SERV_ITEM_REL5552391
+lv_location_id-------->4142205LV_ADDRESS_ID--->3365419
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->2441357lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441357--->'lv_circuit_design_id--------->5230687NG_CUST_ACCT_ID---->347116lv_leg_document_number---->6642843
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5552391
+data inserted into serv_req_si5230687
+data inserted into cust_acct_si5230687
+data inserted into SERV_ITEM_REL5230687
+lv_location_id-------->4030507LV_ADDRESS_ID--->3313571
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5230687
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1490464lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1490464--->'lv_circuit_design_id--------->5470697NG_CUST_ACCT_ID---->78649lv_leg_document_number---->3623476
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5230687
+data inserted into serv_req_si10553799
+data inserted into cust_acct_si10553799
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2441334lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441334--->'lv_circuit_design_id--------->5215902NG_CUST_ACCT_ID---->411068lv_leg_document_number---->6642883
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10553799
+data inserted into serv_req_si5215903
+data inserted into cust_acct_si5215903
+data inserted into SERV_ITEM_REL5215903
+lv_location_id-------->4122112LV_ADDRESS_ID--->3353673
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4361443lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4361443--->'lv_circuit_design_id--------->12073416NG_CUST_ACCT_ID---->1935302lv_leg_document_number---->6907283
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5215903
+lv_location_id-------->5491714LV_ADDRESS_ID--->4268632
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->5037809LV_ADDRESS_ID--->4268632
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->960475lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->960475--->'lv_circuit_design_id--------->5686724NG_CUST_ACCT_ID---->293483lv_leg_document_number---->5960535
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->27759293
+data inserted into serv_req_si10627504
+data inserted into cust_acct_si10627504
+data inserted into SERV_ITEM_REL10627504
+lv_location_id-------->3916416LV_ADDRESS_ID--->3234967
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->43188LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa10627504
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1480849lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1480849--->'lv_circuit_design_id--------->5430699NG_CUST_ACCT_ID---->74934lv_leg_document_number---->4618240
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10627504
+data inserted into serv_req_si5430699
+data inserted into cust_acct_si5430699
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->976492lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->976492--->'lv_circuit_design_id--------->5771746NG_CUST_ACCT_ID---->81105lv_leg_document_number---->3072272
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5430699
+data inserted into serv_req_si5771746
+data inserted into cust_acct_si5771746
+data inserted into SERV_ITEM_REL5771746
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1313454lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1313454--->'lv_circuit_design_id--------->5081559NG_CUST_ACCT_ID---->72429lv_leg_document_number---->6049775
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5771746
+data inserted into serv_req_si5081559
+data inserted into cust_acct_si5081559
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2441357lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441357--->'lv_circuit_design_id--------->5403797NG_CUST_ACCT_ID---->347116lv_leg_document_number---->6642843
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5081559
+data inserted into serv_req_si5403797
+data inserted into cust_acct_si5403797
+data inserted into SERV_ITEM_REL5403797
+lv_location_id-------->4030507LV_ADDRESS_ID--->3313571
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1976304lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1976304--->'lv_circuit_design_id--------->5013248NG_CUST_ACCT_ID---->273492lv_leg_document_number---->5872161
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5403797
+data inserted into serv_req_si5013248
+data inserted into cust_acct_si5013248
+data inserted into SERV_ITEM_REL5013248
+lv_location_id-------->4588454LV_ADDRESS_ID--->231508
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->144015LV_ADDRESS_ID--->1663539
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5013248
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2441359lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441359--->'lv_circuit_design_id--------->5202230NG_CUST_ACCT_ID---->347025lv_leg_document_number---->6642036
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5013248
+data inserted into serv_req_si5202230
+data inserted into cust_acct_si5202230
+data inserted into SERV_ITEM_REL5202230
+lv_location_id-------->4142740LV_ADDRESS_ID--->3365746
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5202230
+Lv_document_number---------------->2441362lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441362--->'lv_circuit_design_id--------->5102105NG_CUST_ACCT_ID---->341322lv_leg_document_number---->6642820
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5202230
+data inserted into serv_req_si5102105
+data inserted into cust_acct_si5102105
+data inserted into SERV_ITEM_REL5102105
+lv_location_id-------->4030496LV_ADDRESS_ID--->3384466
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1482712lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1482712--->'lv_circuit_design_id--------->5589115NG_CUST_ACCT_ID---->314503lv_leg_document_number---->6582139
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5102105
+lv_location_id-------->4042930LV_ADDRESS_ID--->3306752
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+lv_location_id-------->18569LV_ADDRESS_ID--->
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2441353lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441353--->'lv_circuit_design_id--------->5604600NG_CUST_ACCT_ID---->344016lv_leg_document_number---->6642033
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->17158515
+data inserted into serv_req_si5604600
+data inserted into cust_acct_si5604600
+data inserted into SERV_ITEM_REL5604600
+lv_location_id-------->3954320LV_ADDRESS_ID--->3255612
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5604600
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4361488lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4361488--->'lv_circuit_design_id--------->2285740NG_CUST_ACCT_ID---->853894lv_leg_document_number---->6953682
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5604600
+data inserted into SERV_ITEM_REL18735399
+lv_location_id-------->5488486LV_ADDRESS_ID--->4650341
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+lv_location_id-------->37385LV_ADDRESS_ID--->
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2157582lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2157582--->'lv_circuit_design_id--------->5052625NG_CUST_ACCT_ID---->333624lv_leg_document_number---->6642362
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->18735399
+data inserted into serv_req_si23056006
+data inserted into cust_acct_si23056006
+data inserted into SERV_ITEM_REL23056006
+lv_location_id-------->4609950LV_ADDRESS_ID--->3563889
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->30549LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa23056006
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1320601lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1320601--->'lv_circuit_design_id--------->5470100NG_CUST_ACCT_ID---->79690lv_leg_document_number---->6041978
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->23056006
+data inserted into serv_req_si23050003
+data inserted into cust_acct_si23050003
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1984377lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->1984377--->'lv_circuit_design_id--------->5170921NG_CUST_ACCT_ID---->244985lv_leg_document_number---->
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->23050003
+data inserted into serv_req_si5170921
+data inserted into cust_acct_si5170921
+Lv_document_number---------------->2441341lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441341--->'lv_circuit_design_id--------->5495466NG_CUST_ACCT_ID---->345393lv_leg_document_number---->6641903
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5170921
+data inserted into serv_req_si5495466
+data inserted into cust_acct_si5495466
+data inserted into SERV_ITEM_REL5495466
+lv_location_id-------->4142205LV_ADDRESS_ID--->3365419
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5495466
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1815897lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1815897--->'lv_circuit_design_id--------->5492779NG_CUST_ACCT_ID---->302283lv_leg_document_number---->6320124
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5495466
+data inserted into cust_acct_si5492779
+data inserted into SERV_ITEM_REL5492779
+lv_location_id-------->4157697LV_ADDRESS_ID--->258484
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->64350LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2441354lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441354--->'lv_circuit_design_id--------->5796583NG_CUST_ACCT_ID---->349316lv_leg_document_number---->6642531
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5492779
+data inserted into serv_req_si5796582
+data inserted into cust_acct_si5796582
+data inserted into SERV_ITEM_REL5796582
+lv_location_id-------->4159305LV_ADDRESS_ID--->3375779
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->275332LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1641507lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1641507--->'lv_circuit_design_id--------->5639934NG_CUST_ACCT_ID---->2257lv_leg_document_number---->316518
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5796582
+data inserted into serv_req_si5639934
+data inserted into cust_acct_si5639934
+Lv_document_number---------------->971919lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->971919--->'lv_circuit_design_id--------->5470668NG_CUST_ACCT_ID---->84594lv_leg_document_number---->
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5639934
+data inserted into serv_req_si5470668
+data inserted into cust_acct_si5470668
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1473721lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1473721--->'lv_circuit_design_id--------->5664762NG_CUST_ACCT_ID---->28790lv_leg_document_number---->3041484
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5470668
+data inserted into serv_req_si5664762
+data inserted into cust_acct_si5664762
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2441362lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441362--->'lv_circuit_design_id--------->5206733NG_CUST_ACCT_ID---->341322lv_leg_document_number---->6642820
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5664762
+data inserted into serv_req_si5206733
+data inserted into cust_acct_si5206733
+data inserted into SERV_ITEM_REL5206733
+lv_location_id-------->4030496LV_ADDRESS_ID--->3384466
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5206733
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1490464lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1490464--->'lv_circuit_design_id--------->5727116NG_CUST_ACCT_ID---->78649lv_leg_document_number---->3623476
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5206733
+data inserted into serv_req_si10553802
+data inserted into cust_acct_si10553802
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->4074776lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4074776--->'lv_circuit_design_id--------->4970986NG_CUST_ACCT_ID---->326788lv_leg_document_number---->6355173
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10553802
+data inserted into serv_req_si4970986
+data inserted into cust_acct_si4970986
+data inserted into SERV_ITEM_REL4970986
+lv_location_id-------->4059091LV_ADDRESS_ID--->280879
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->51990LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa4970986
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1144274lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1144274--->'lv_circuit_design_id--------->5205587NG_CUST_ACCT_ID---->25392lv_leg_document_number---->6578191
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4970986
+data inserted into serv_req_si5205587
+data inserted into cust_acct_si5205587
+data inserted into SERV_ITEM_REL5205587
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4313285lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4313285--->'lv_circuit_design_id--------->5216079NG_CUST_ACCT_ID---->350793lv_leg_document_number---->6726790
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5205587
+data inserted into serv_req_si5216079
+data inserted into cust_acct_si5216079
+data inserted into SERV_ITEM_REL5216079
+lv_location_id-------->4106680LV_ADDRESS_ID--->302062
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->786776lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->0--->Lv_document_number----->786776--->'lv_circuit_design_id--------->NG_CUST_ACCT_ID---->45270lv_leg_document_number---->7027845
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->5216079
+data inserted into serv item table-->30563034
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->3478077lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->3478077--->'lv_circuit_design_id--------->5620984NG_CUST_ACCT_ID---->350674lv_leg_document_number---->6409930
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5216079
+data inserted into serv_req_si5620984
+data inserted into cust_acct_si5620984
+data inserted into SERV_ITEM_REL5620984
+lv_location_id-------->4113810LV_ADDRESS_ID--->301948
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->5813LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5620984
+Lv_document_number---------------->1475238lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1475238--->'lv_circuit_design_id--------->5567494NG_CUST_ACCT_ID---->105937lv_leg_document_number---->6024942
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5620984
+data inserted into serv_req_si5567494
+data inserted into cust_acct_si5567494
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1468940lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->1468940--->'lv_circuit_design_id--------->5341885NG_CUST_ACCT_ID---->282660lv_leg_document_number---->
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->5567494
+data inserted into serv_req_si5341885
+data inserted into cust_acct_si5341885
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1308814lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1308814--->'lv_circuit_design_id--------->5828011NG_CUST_ACCT_ID---->44492lv_leg_document_number---->3922493
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5341885
+data inserted into serv_req_si5828011
+data inserted into cust_acct_si5828011
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->800224lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->800224--->'lv_circuit_design_id--------->5833507NG_CUST_ACCT_ID---->77064lv_leg_document_number---->718942
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5828011
+data inserted into serv_req_si10544825
+data inserted into cust_acct_si10544825
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2156499lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2156499--->'lv_circuit_design_id--------->5031114NG_CUST_ACCT_ID---->354478lv_leg_document_number---->6640510
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10544825
+data inserted into serv_req_si23056586
+data inserted into cust_acct_si23056586
+data inserted into SERV_ITEM_REL23056586
+lv_location_id-------->3917340LV_ADDRESS_ID--->3235472
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->30553LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa23056586
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1135581lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1135581--->'lv_circuit_design_id--------->5414547NG_CUST_ACCT_ID---->194815lv_leg_document_number---->5888614
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->23056586
+data inserted into serv_req_si5414547
+data inserted into cust_acct_si5414547
+data inserted into SERV_ITEM_REL5414547
+lv_location_id-------->4470229LV_ADDRESS_ID--->163552
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->147263LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5414547
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2441334lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2441334--->'lv_circuit_design_id--------->4605212NG_CUST_ACCT_ID---->411068lv_leg_document_number---->6642883
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5414547
+data inserted into serv_req_si4605212
+data inserted into cust_acct_si4605212
+data inserted into SERV_ITEM_REL4605212
+lv_location_id-------->4122112LV_ADDRESS_ID--->3353673
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa4605212
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2157184lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->2157184--->'lv_circuit_design_id--------->5197543NG_CUST_ACCT_ID---->348786lv_leg_document_number---->6714548
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->4605212
+data inserted into serv_req_si5197545
+data inserted into cust_acct_si5197545
+data inserted into SERV_ITEM_REL5197545
+lv_location_id-------->4149732LV_ADDRESS_ID--->3369954
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1320601lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1320601--->'lv_circuit_design_id--------->5208236NG_CUST_ACCT_ID---->79690lv_leg_document_number---->6041978
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5197545
+data inserted into serv_req_si23050002
+data inserted into cust_acct_si23050002
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4313285lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4313285--->'lv_circuit_design_id--------->5652631NG_CUST_ACCT_ID---->350793lv_leg_document_number---->6726790
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->23050002
+data inserted into serv_req_si5652631
+data inserted into cust_acct_si5652631
+data inserted into SERV_ITEM_REL5652631
+lv_location_id-------->4106680LV_ADDRESS_ID--->302062
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->31056LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5652631
+Lv_document_number---------------->4311454lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4311454--->'lv_circuit_design_id--------->5194085NG_CUST_ACCT_ID---->352384lv_leg_document_number---->6720913
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5652631
+data inserted into serv_req_si5194085
+data inserted into cust_acct_si5194085
+data inserted into SERV_ITEM_REL5194085
+lv_location_id-------->4622775LV_ADDRESS_ID--->303602
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->25439LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5194085
+Lv_document_number---------------->788758lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->788758--->'lv_circuit_design_id--------->5002542NG_CUST_ACCT_ID---->82534lv_leg_document_number---->4214551
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->5194085
+lv_location_id-------->174211LV_ADDRESS_ID--->
+lv_count42
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+lv_location_id-------->174211LV_ADDRESS_ID--->
+lv_count42
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+lv_location_id-------->3651624LV_ADDRESS_ID--->3106825
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+Lv_document_number---------------->1662509lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1662509--->'lv_circuit_design_id--------->5087860NG_CUST_ACCT_ID---->27410lv_leg_document_number---->731870
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10986650
+data inserted into serv_req_si10562190
+data inserted into cust_acct_si10562190
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4303888lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4303888--->'lv_circuit_design_id--------->12070691NG_CUST_ACCT_ID---->1934210lv_leg_document_number---->6965609
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10562190
+lv_location_id-------->5531658LV_ADDRESS_ID--->4586565
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->4559752lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4559752--->'lv_circuit_design_id--------->13630099NG_CUST_ACCT_ID---->1928268lv_leg_document_number---->6904348
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->27156806
+data inserted into cust_acct_si30047362
+data inserted into SERV_ITEM_REL30047362
+lv_location_id-------->4945239LV_ADDRESS_ID--->4147722
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+lv_location_id-------->5387061LV_ADDRESS_ID--->4742458
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1641507lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1641507--->'lv_circuit_design_id--------->5417115NG_CUST_ACCT_ID---->2257lv_leg_document_number---->316518
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->30047362
+data inserted into serv_req_si5417115
+data inserted into cust_acct_si5417115
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1813886lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1813886--->'lv_circuit_design_id--------->5694872NG_CUST_ACCT_ID---->128889lv_leg_document_number---->6010691
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5417115
+data inserted into serv_req_si23046726
+data inserted into cust_acct_si23046726
+data inserted into SERV_ITEM_REL23046726
+lv_location_id-------->4629123LV_ADDRESS_ID--->123495
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->6172LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1820278lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1820278--->'lv_circuit_design_id--------->4537282NG_CUST_ACCT_ID---->28623lv_leg_document_number---->3004663
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->23046726
+data inserted into serv_req_si4537282
+data inserted into cust_acct_si4537282
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->803542lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->803542--->'lv_circuit_design_id--------->4847579NG_CUST_ACCT_ID---->75882lv_leg_document_number---->3770377
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4537282
+data inserted into serv_req_si10551122
+data inserted into cust_acct_si10551122
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->806915lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->806915--->'lv_circuit_design_id--------->4992633NG_CUST_ACCT_ID---->81929lv_leg_document_number---->6369621
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10551122
+data inserted into serv_req_si4992633
+data inserted into cust_acct_si4992633
+Lv_document_number---------------->2365998lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2365998--->'lv_circuit_design_id--------->4599840NG_CUST_ACCT_ID---->349446lv_leg_document_number---->6616215
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4992633
+data inserted into serv_req_si4599840
+data inserted into cust_acct_si4599840
+data inserted into SERV_ITEM_REL4599840
+lv_location_id-------->3946716LV_ADDRESS_ID--->3251406
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->16535LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa4599840
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1662509lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1662509--->'lv_circuit_design_id--------->5778565NG_CUST_ACCT_ID---->27410lv_leg_document_number---->731870
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4599840
+data inserted into serv_req_si10562194
+data inserted into cust_acct_si10562194
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1970100lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1970100--->'lv_circuit_design_id--------->5548785NG_CUST_ACCT_ID---->104761lv_leg_document_number---->6513350
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10562194
+data inserted into serv_req_si23051119
+data inserted into cust_acct_si23051119
+data inserted into SERV_ITEM_REL23051119
+lv_location_id-------->4087171LV_ADDRESS_ID--->102638
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->27655LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1975875lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1975875--->'lv_circuit_design_id--------->5544492NG_CUST_ACCT_ID---->340279lv_leg_document_number---->5884475
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->23051119
+data inserted into serv_req_si5544492
+data inserted into cust_acct_si5544492
+Lv_document_number---------------->1820301lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1820301--->'lv_circuit_design_id--------->5500708NG_CUST_ACCT_ID---->27227lv_leg_document_number---->6461186
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5544492
+data inserted into serv_req_si5500708
+data inserted into cust_acct_si5500708
+data inserted into SERV_ITEM_REL5500708
+lv_location_id-------->3922008LV_ADDRESS_ID--->3238056
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->8877LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5500708
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1480849lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1480849--->'lv_circuit_design_id--------->5775309NG_CUST_ACCT_ID---->74934lv_leg_document_number---->4618240
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5500708
+data inserted into serv_req_si5775309
+data inserted into cust_acct_si5775309
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->971919lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->971919--->'lv_circuit_design_id--------->5321878NG_CUST_ACCT_ID---->84594lv_leg_document_number---->
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5775309
+data inserted into serv_req_si5321878
+data inserted into cust_acct_si5321878
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1290731lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1290731--->'lv_circuit_design_id--------->4709344NG_CUST_ACCT_ID---->77591lv_leg_document_number---->5001298
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5321878
+data inserted into serv_req_si4709343
+data inserted into cust_acct_si4709343
+data inserted into SERV_ITEM_REL4709343
+lv_location_id-------->3356463LV_ADDRESS_ID--->2991606
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->76316LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->1808162lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1808162--->'lv_circuit_design_id--------->5501690NG_CUST_ACCT_ID---->62550lv_leg_document_number---->4818439
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4709343
+data inserted into serv_req_si10583196
+data inserted into cust_acct_si10583196
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1796663lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1796663--->'lv_circuit_design_id--------->5099518NG_CUST_ACCT_ID---->261554lv_leg_document_number---->5890092
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10583196
+data inserted into serv_req_si5099518
+data inserted into cust_acct_si5099518
+data inserted into SERV_ITEM_REL5099518
+lv_location_id-------->2018482LV_ADDRESS_ID--->220797
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->169725LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5099518
+Lv_document_number---------------->1796663lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1796663--->'lv_circuit_design_id--------->5528350NG_CUST_ACCT_ID---->261554lv_leg_document_number---->5890092
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5099518
+data inserted into serv_req_si5528350
+data inserted into cust_acct_si5528350
+data inserted into SERV_ITEM_REL5528350
+lv_location_id-------->2018482LV_ADDRESS_ID--->220797
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->169725LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5528350
+Lv_document_number---------------->2157582lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2157582--->'lv_circuit_design_id--------->4637690NG_CUST_ACCT_ID---->333624lv_leg_document_number---->6642362
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5528350
+data inserted into serv_req_si4637690
+data inserted into cust_acct_si4637690
+data inserted into SERV_ITEM_REL4637690
+lv_location_id-------->4609950LV_ADDRESS_ID--->3563889
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1304503lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1304503--->'lv_circuit_design_id--------->4895751NG_CUST_ACCT_ID---->107175lv_leg_document_number---->6372727
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4637690
+data inserted into serv_req_si4895751
+data inserted into cust_acct_si4895751
+data inserted into SERV_ITEM_REL4895751
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->1140798lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1140798--->'lv_circuit_design_id--------->5529457NG_CUST_ACCT_ID---->3225lv_leg_document_number---->5152341
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4895751
+data inserted into serv_req_si10571482
+data inserted into cust_acct_si10571482
+data inserted into SERV_ITEM_REL10571482
+lv_location_id-------->106950LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->2157184lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->2157184--->'lv_circuit_design_id--------->4834723NG_CUST_ACCT_ID---->348786lv_leg_document_number---->6714548
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->10571482
+data inserted into serv_req_si4834723
+data inserted into cust_acct_si4834723
+data inserted into SERV_ITEM_REL4834723
+lv_location_id-------->4149732LV_ADDRESS_ID--->3369954
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->1482882lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1482882--->'lv_circuit_design_id--------->4846420NG_CUST_ACCT_ID---->123417lv_leg_document_number---->6427939
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4834723
+data inserted into serv_req_si4846421
+data inserted into cust_acct_si4846421
+data inserted into SERV_ITEM_REL4846421
+lv_location_id-------->3740577LV_ADDRESS_ID--->3146489
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->39983LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->4361488lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->4361488--->'lv_circuit_design_id--------->2371688NG_CUST_ACCT_ID---->853894lv_leg_document_number---->6953682
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->4846421
+data inserted into SERV_ITEM_REL18735359
+lv_location_id-------->5488486LV_ADDRESS_ID--->4650341
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+lv_location_id-------->37385LV_ADDRESS_ID--->
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->957551lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->957551--->'lv_circuit_design_id--------->4749407NG_CUST_ACCT_ID---->192439lv_leg_document_number---->
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->18735359
+data inserted into serv_req_si4749407
+data inserted into cust_acct_si4749407
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->788758lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->1--->Lv_document_number----->788758--->'lv_circuit_design_id--------->4876749NG_CUST_ACCT_ID---->82534lv_leg_document_number---->4214551
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->4749407
+lv_location_id-------->174211LV_ADDRESS_ID--->
+lv_count42
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+lv_location_id-------->174211LV_ADDRESS_ID--->
+lv_count42
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+lv_location_id-------->3651624LV_ADDRESS_ID--->3106825
+lv_count41
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->2157244lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->2157244--->'lv_circuit_design_id--------->5492159NG_CUST_ACCT_ID---->341044lv_leg_document_number---->6671636
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->10986684
+data inserted into serv_req_si5492159
+data inserted into cust_acct_si5492159
+data inserted into SERV_ITEM_REL5492159
+lv_location_id-------->4104733LV_ADDRESS_ID--->3310083
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->74186LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa5492159
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1813886lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1813886--->'lv_circuit_design_id--------->4900658NG_CUST_ACCT_ID---->128889lv_leg_document_number---->6010691
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->5492159
+data inserted into serv_req_si23046733
+data inserted into cust_acct_si23046733
+data inserted into SERV_ITEM_REL23046733
+lv_location_id-------->4629123LV_ADDRESS_ID--->123495
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->6172LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into CLLI_LOC_USAGE table
+data inserted into si_clli_loc_usage table
+data inserted into srsi_si_cfa23046733
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->1970100lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->1--->Lv_document_number----->1970100--->'lv_circuit_design_id--------->5541139NG_CUST_ACCT_ID---->104761lv_leg_document_number---->6513350
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->23046733
+data inserted into serv_req_si23051115
+data inserted into cust_acct_si23051115
+data inserted into SERV_ITEM_REL23051115
+lv_location_id-------->4087171LV_ADDRESS_ID--->102638
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+lv_location_id-------->27655LV_ADDRESS_ID--->
+lv_count40
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->1007lv_item_alias--->Line 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->4333211lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+lv_count  --->0--->Lv_document_number----->4333211--->'lv_circuit_design_id--------->NG_CUST_ACCT_ID---->1997805lv_leg_document_number---->7027814
+lv_ng_spec_grp_id  --->2081--->lv_ng_serv_item_id----->23051115
+data inserted into serv item table-->30563036
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->1654390lv_spec_grp_id---->1007lv_item_alias--->Line 
+lv_count  --->0--->Lv_document_number----->1654390--->'lv_circuit_design_id--------->NG_CUST_ACCT_ID---->1049584lv_leg_document_number---->6942909
+lv_ng_spec_grp_id  --->1007--->lv_ng_serv_item_id----->23051115
+data inserted into serv item table-->30563038
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+Lv_document_number---------------->lv_spec_grp_id---->2081lv_item_alias--->Circuit 
+
+parent  
+
+anonymous block completed
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2441334lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441334
+data inserted into serv item table-->30562973
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4074776lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4074776
+data inserted into serv item table-->30562974
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2157184lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number----->2157184
+data inserted into serv item table-->30562975
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->2441344lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441344
+data inserted into serv item table-->30562976
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4311454lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4311454
+data inserted into serv item table-->30562977
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2365998lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2365998
+data inserted into serv item table-->30562978
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2441360lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441360
+data inserted into serv item table-->30562979
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2441341lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441341
+data inserted into serv item table-->30562980
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->3478077lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->3478077
+data inserted into serv item table-->30562981
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->4559752lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4559752
+data inserted into serv item table-->30562982
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4322457lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4322457
+data inserted into serv item table-->30562983
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->1140798lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1140798
+data inserted into serv item table-->30562984
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->1290731lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1290731
+data inserted into serv item table-->30562985
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->1647133lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1647133
+data inserted into serv item table-->30562986
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4559769lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4559769
+data inserted into serv item table-->30562987
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4311180lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4311180
+data inserted into serv item table-->30562988
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4313285lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4313285
+data inserted into serv item table-->30562989
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->4313285lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4313285
+data inserted into serv item table-->30562990
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->2441359lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441359
+data inserted into serv item table-->30562991
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->2441357lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441357
+data inserted into serv item table-->30562992
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->2441357lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441357
+data inserted into serv item table-->30562993
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->2156499lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2156499
+data inserted into serv item table-->30562994
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4333211lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4333211
+data inserted into serv item table-->30562995
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2157582lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2157582
+data inserted into serv item table-->30562996
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2441341lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441341
+data inserted into serv item table-->30562997
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->4559769lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4559769
+data inserted into serv item table-->30562998
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->2441353lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441353
+data inserted into serv item table-->30562999
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->1144274lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1144274
+data inserted into serv item table-->30563000
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2441360lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441360
+data inserted into serv item table-->30563001
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->788392lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->788392
+data inserted into serv item table-->30563002
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2157582lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2157582
+data inserted into serv item table-->30563003
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->2441362lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441362
+data inserted into serv item table-->30563004
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->2441362lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441362
+data inserted into serv item table-->30563005
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->2441344lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441344
+data inserted into serv item table-->30563006
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->976492lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->976492
+data inserted into serv item table-->30563007
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2441333lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441333
+data inserted into serv item table-->30563008
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->1975169lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1975169
+data inserted into serv item table-->30563009
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->1135581lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1135581
+data inserted into serv item table-->30563010
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->1308738lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1308738
+data inserted into serv item table-->30563011
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4311180lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4311180
+data inserted into serv item table-->30563012
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2157244lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2157244
+data inserted into serv item table-->30563013
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2441334lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441334
+data inserted into serv item table-->30563014
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4347688lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4347688
+data inserted into serv item table-->30563015
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->960475lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->960475
+data inserted into serv item table-->30563016
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->4347688lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4347688
+data inserted into serv item table-->30563017
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->788758lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number----->788758
+data inserted into serv item table-->30563018
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->4311454lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->4311454
+data inserted into serv item table-->30563019
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->788758lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number----->788758
+data inserted into serv item table-->30563020
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+data inserted into srsi_sr_loc table
+data inserted into si_loc table
+data inserted into SI_EUL_USAGE table
+data inserted into end_user_location_usage table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->1820301lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1820301
+data inserted into serv item table-->30563021
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->1970100lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1970100
+data inserted into serv item table-->30563022
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->1796663lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->1796663
+data inserted into serv item table-->30563023
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->2441354lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number----->2441354
+data inserted into serv item table-->30563024
+data inserted into serv req si table
+data inserted into cust acct si table
+data inserted into serv item rel table
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1006lv_item_alias--->Line Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+Lv_document_number---------------->lv_spec_grp_id---->1002lv_item_alias--->Circuit Product 
+
+
+
+
